@@ -1,0 +1,7 @@
+com\mycompany\observer\Cliente.class
+com\mycompany\observer\Dados.class
+com\mycompany\observer\TabelaObserver.class
+com\mycompany\observer\DadosObserver.class
+com\mycompany\observer\BarraObserver.class
+com\mycompany\observer\DadosSubject.class
+com\mycompany\observer\PorcentoObserver.class
